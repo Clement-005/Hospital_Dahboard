@@ -104,4 +104,4 @@ The online version loads the same tables from CSV files (or generated sample dat
 
 ## Author
 
-Paschal Amenlemah
+Clement Amenlemah
