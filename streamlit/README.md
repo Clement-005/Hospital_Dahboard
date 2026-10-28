@@ -2,7 +2,7 @@
 
 A role-based hospital records system with a live operations dashboard, built with **Python, MySQL and Streamlit**.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** _https://clement-hospital-dashboard.streamlit.app/
 Sign in with any of the demo accounts shown on the login page. The demo uses made-up patients, and anything you add disappears when you close the page.
 
 ![Operations dashboard](docs/dashboard.png)
